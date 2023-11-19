@@ -2,7 +2,13 @@
 
 <h2>Data Diri:</h2>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=I'm+Aziz+Ramadhan;Palembang;Laki-Laki;Informatika'23;Student+at+Universitas+Amikom+Purwokerto;"alt="Student at Universitas Amikom Purwokerto"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=45&center=true&vCenter=true&width=450&lines=I'm+Aziz+Ramadhan;"alt="Student at Universitas Amikom Purwokerto"></a>
+</div><br>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=Informatika'23;"alt="Student at Universitas Amikom Purwokerto"></a>
+</div><br>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=Student+at+Universitas+Amikom+Purwokerto;"alt="Student at Universitas Amikom Purwokerto"></a>
 </div>
 
 <h2>Quote:</h2>
@@ -30,4 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=I'm+Aziz+Ramadhan;Palembang;Laki-Laki;Informatika'23;Student+at+Universitas+Amikom+Purwokerto;"alt="Student at Universitas Amikom Purwokerto"></a>
+</div><br>
 -->
