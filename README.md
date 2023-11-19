@@ -1,4 +1,4 @@
-<div> <h1 align="center">Selamat Datang || Welcome 🔰<br>Halo semua! 👋</h1> </div>
+<div> <h1 align="center">Selamat Datang 🔰<br>Halo semua! 👋</h1> </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=450&lines=I'm+Aziz+Ramadhan;"alt="Student at Universitas Amikom Purwokerto"></a>
@@ -10,12 +10,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=Student+at+Universitas+Amikom+Purwokerto;"alt="Student at Universitas Amikom Purwokerto"></a>
 </div>
 
-<h2>Quote:</h2>
+<h2>:thought_balloon: Quote of the day</h2>
 
->"Kita semua mungkin melihat ke arah yang berbeda-beda, tapi kita semua punya tujuan kembali yang sama." - Sakata Gintoki(Gintama)<br>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
 
 <h2>Profile:</h2>
-
+<details open>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aziz-ramadhan-263745199/)ku ya.<br>
 
 <a href="https://github.com/azizramaadhan/github-readme-stats">
