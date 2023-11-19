@@ -1,4 +1,4 @@
-# Halo semua! 👋
+<h1 align="center">🔰Halo semua! 👋</h1> </div>
 Perkenalkan nama saya **Aziz Ramadhan**.<br>
 
 Saya seorang mahasiswa di **Universitas Amikom Purwokerto**.<br>
@@ -6,13 +6,9 @@ Saya seorang mahasiswa di **Universitas Amikom Purwokerto**.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aziz-ramadhan-263745199/)ku ya.<br>
 
 💬 Ask me about anything.<br>
-<!--Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>-->
-
-<!--Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>-->
-
-<!--Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>-->
-
-
+<a href="https://github.com/azizramaadhan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=azizramaadhan" />
+</a>
 <!--
 **azizramaadhan/azizramaadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
