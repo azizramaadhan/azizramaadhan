@@ -1,7 +1,7 @@
 # Halo semua! 👋
 Perkenalkan nama saya **Aziz Ramadhan**.<br>
 
-Saya seorang mahasiswa **Universitas Amikom Purwokerto**<br>
+Saya seorang mahasiswa di **Universitas Amikom Purwokerto**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aziz-ramadhan-263745199/)ku ya.<br>
 
