@@ -20,7 +20,7 @@
 </details>
 
 <h2>Profile:</h2>
-<details open>
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aziz-ramadhan-263745199/)ku ya.<br>
 
 
