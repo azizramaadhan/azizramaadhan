@@ -23,6 +23,7 @@
 <details open>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aziz-ramadhan-263745199/)ku ya.<br>
 
+
 <a href="https://github.com/azizramaadhan/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=azizramaadhan" />
 </a>
