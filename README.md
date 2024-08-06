@@ -1,15 +1,5 @@
 <div> <h1 align="center">Selamat Datang 🔰<br>Halo semua! 👋</h1> </div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=450&lines=I'm+Aziz+Ramadhan;"alt="Student at Universitas Amikom Purwokerto"></a>
-</div><br>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=Informatika'23;"alt="Student at Universitas Amikom Purwokerto"></a>
-</div><br>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=Student+at+Universitas+Amikom+Purwokerto;"alt="Student at Universitas Amikom Purwokerto"></a>
-</div>
-
 <h2>:thought_balloon: Quote of the day</h2>
 
 <details open>
